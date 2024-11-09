@@ -1,0 +1,64 @@
+{
+    "newFilm":[
+    {
+    "id": 0,
+    "Image": "https://img.championat.com/i/l/e/1717419817648206639.jpg",
+    "Title": "Веном: Последний танец",
+    "year": "31.10.2024",
+    "Genre": "Боевик,приключения,фантастика"
+    },
+    {
+    "id": 1,
+    "Image": "https://i.pinimg.com/736x/5c/c6/e6/5cc6e67d85e2266b8047db96953746f5.jpg",
+    "Title": "Моана 2",
+    "year": "30.11.2024",
+    "Genre": "Анимация"
+    },
+    {
+    "id": 2,
+    "Image": "https://sun9-8.userapi.com/s/v1/ig2/F7yxTpCKyo8Jl8BrQjeshrKvR5Tvns_ng6k7flki_r0UQ1J0J3wk5tGYElbw1eJXKEgMEQFMEDiq678DJvyeAuyM.jpg?quality=96&as=32x44,48x65,72x98,108x147,160x218,240x327,360x491,480x654,540x736,640x872,720x981,736x1003&from=bu&u=UalQbyvAl13StCdhk7KuXJW7yMiP0OrN-Dt8JYx1Kg8&cs=443x604",
+    "Title": "Приключения Паддингтона 3",
+    "year": "28.11.2024",
+    "Genre": "Приключения,анимация,комедия"
+    },
+    {
+    "id": 3,
+    "Image": "https://sun9-32.userapi.com/s/v1/ig2/Y_go-RkjytstnHVvefrVqNO4pgNPDzsGdAOi9LE4CiSz_w1QHdntaUv7rDWZdbRbSi-AXMbUOsUWz1opqtE2plUn.jpg?quality=96&as=32x46,48x69,72x103,108x154,160x229,240x343,360x514,480x686,540x772,640x914,720x1029,800x1143&from=bu&u=9slJ0wA7wuloqTwfafrW6v-8BrLgab7n7QDMO_Q2fLs&cs=423x604",
+    "Title": "Соник 3",
+    "year": "21.декабря.2024",
+    "Genre": "Боевик, комедия, криминал"
+    },
+    {
+    "id": 4,
+    "Image": "https://avatars.mds.yandex.net/get-mpic/1865278/2a0000018b43481b4b000f0ac557261a3a6d/orig",
+    "Title": "Ford против Ferrari",
+    "year": "2024",
+    "Genre": "Биография, спорт, драма, боевик"
+    },
+    {
+    "id": 5,
+    "Image": "https://m.media-amazon.com/images/M/MV5BNWNhMDdiYzktMjQzNy00NGYwLWIwMTQtMmFiNzZkZGRjOTI3XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg",
+    "Title": "3022",
+    "year": "2024",
+    "Genre": "Фантастика, триллер"
+    },
+    {
+    "id": 6,
+    "Image": "https://avatars.mds.yandex.net/i?id=5c055a37f9da48d7329aa2ab3cb49ee3_l-5424324-images-thumbs&n=13",
+    "Title": "Хищные птицы: Потрясающая история Харли Квинн",
+    "year": "2024",
+    "Genre": "Боевик, криминал, комедия"
+    },
+    {
+    "id": 7,
+    "Image": "https://cdn.ananasposter.ru/image/cache/catalog/poster/film/82/12998-1000x830.jpg",
+    "Title": "Плохие парни навсегда",
+    "year": "2024",
+    "Genre": "Боевик, комедия, криминал"
+    }
+    ],
+    "Auth":[{
+      "name":"",
+      "password":""
+    }]
+  }
